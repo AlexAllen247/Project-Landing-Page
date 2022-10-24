@@ -1,2 +1,5 @@
 # Project-Landing-Page
-Project Landing Page for The Odin Project
+
+This ia a template Project Landing Page for The Odin Project.
+
+It was a project to practice and test HTML and CSS knowledge.
